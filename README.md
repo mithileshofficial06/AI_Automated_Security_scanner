@@ -1,8 +1,10 @@
-# AI_Automated_Security_scanner
+ # AI_Automated_Security_scanner
 
 AI Automated Security Scanner is a prototype cybersecurity application that combines automated vulnerability scanning with AI-driven analysis. Designed with a modern user interface, it allows users to configure scans, select vulnerability types, and generate professional reports with ease.
 
-Key Features
+
+
+#KEY FEATURES
 
 User-Friendly Interface: Intuitive dashboard for configuring scans and monitoring results.
 
@@ -16,7 +18,9 @@ Reporting: Option to generate structured PDF security reports for documentation.
 
 Configurable Options: Users can choose vulnerability types, enable or disable AI analysis, and adjust scan depth.
 
-Technology Stack
+
+
+#TECHNOLOGY STACK
 
 Frontend: Modern UI for scan configuration and results visualization.
 
@@ -28,7 +32,9 @@ AI Integration: Supports integration with external AI APIs for vulnerability ana
 
 Platforms: Tested on Windows 10/11, compatible with Linux.
 
-How It Works
+
+
+#HOW IT WORKS?
 
 Enter the target URL in the scanner interface.
 
@@ -40,7 +46,9 @@ Optionally enable AI-powered analysis for deeper insights.
 
 Generate a PDF report for review and record-keeping.
 
-Future Enhancements
+
+
+#FUTURE ENHANCEMENTS
 
 Expanded vulnerability detection coverage.
 
